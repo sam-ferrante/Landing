@@ -1,0 +1,56 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: #3E3E42;
+  font-size: 12px;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+h1{
+  font-family: 'Varela Round', sans-serif;
+  color: #10A29E;
+  font-weight: lighter;
+  font-size: 18px;
+  text-align: center;
+}
+h2 {
+  font-family: 'Varela Round', sans-serif;
+  color: #00CC99;
+  font-weight: lighter;
+  font-size: 14px;
+  text-align: center;
+}
+a {
+  color: #FFFFF;
+  text-decoration: none;
+}
+div {
+	text-align: center;
+}
+#banner{
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
